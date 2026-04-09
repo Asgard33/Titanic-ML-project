@@ -33,7 +33,7 @@ The project is structured in several steps:
 
 ### 1. Exploratory Data Analysis (EDA)
 
-* Basic data maipulations
+* Basic data manipulations
 * Initial observations on survival distribution
 
 ---
